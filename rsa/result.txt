@@ -1,0 +1,6 @@
+starting process to encrypt and decrypt data
+PublicKey<e: 7, n: 707>
+35
+PrivateKey<d: 343, n: 707>
+98
+total time taken 0.000791486 seconds
